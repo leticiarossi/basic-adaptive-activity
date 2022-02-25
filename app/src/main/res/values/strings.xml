@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">Basic Adaptive Activity</string>
+
+  <string name="fab">Floating action button</string>
+  <string name="nav_fab_text">Compose</string>
+  <string name="nav_button">Expand/contract navigation bar</string>
+
+  <string name="page_1_title">Page 1</string>
+  <string name="page_2_title">Page 2</string>
+  <string name="page_3_title">Page 3</string>
+
+  <string name="fragment_title">Hello World!</string>
+</resources>
